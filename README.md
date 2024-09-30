@@ -5,4 +5,3 @@ The rules are simple:
  - To win a game you must have no more than 3 wrong answers
 
 The project is created for educational purposes.
-This is my first trully self-develped "app"
